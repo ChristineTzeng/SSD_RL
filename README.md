@@ -1,8 +1,10 @@
+SSD_RL: inspired by the sequential social dilemma research from DeepMind.
+
 Required library: 
  - tensorflow-gpu(recommended) or tensorflow
  
 Software Requirement:
- - CUDA 9(fully support tensorflow)
+ - CUDA
  - GPU drivers
  - CUPTI
  - cuDNN SDK
